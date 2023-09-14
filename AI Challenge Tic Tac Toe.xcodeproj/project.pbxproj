@@ -11,6 +11,7 @@
 		198ADDE92AB10D690054FB19 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198ADDE82AB10D690054FB19 /* ContentView.swift */; };
 		198ADDEB2AB10D6B0054FB19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 198ADDEA2AB10D6B0054FB19 /* Assets.xcassets */; };
 		198ADDEE2AB10D6B0054FB19 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 198ADDED2AB10D6B0054FB19 /* Preview Assets.xcassets */; };
+		198ADDF52AB25E2E0054FB19 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198ADDF42AB25E2E0054FB19 /* Alerts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		198ADDE82AB10D690054FB19 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		198ADDEA2AB10D6B0054FB19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		198ADDED2AB10D6B0054FB19 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		198ADDF42AB25E2E0054FB19 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				198ADDE62AB10D690054FB19 /* AI_Challenge_Tic_Tac_ToeApp.swift */,
 				198ADDE82AB10D690054FB19 /* ContentView.swift */,
+				198ADDF42AB25E2E0054FB19 /* Alerts.swift */,
 				198ADDEA2AB10D6B0054FB19 /* Assets.xcassets */,
 				198ADDEC2AB10D6B0054FB19 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				198ADDE92AB10D690054FB19 /* ContentView.swift in Sources */,
+				198ADDF52AB25E2E0054FB19 /* Alerts.swift in Sources */,
 				198ADDE72AB10D690054FB19 /* AI_Challenge_Tic_Tac_ToeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
